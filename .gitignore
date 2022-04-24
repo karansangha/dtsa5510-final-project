@@ -1,0 +1,5 @@
+.venv/
+
+.DS_Store
+.ipynb_checkpoints/Credit Card Fraud Detection-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
